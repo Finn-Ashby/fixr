@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/pkg/errors"
+	"errors"
 )
 
 const (
