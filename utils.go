@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"errors"
+	"github.com/pkg/errors"
 )
 
 var (
