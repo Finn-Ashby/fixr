@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"errors"
+	"github.com/pkg/errors"
 )
 
 const (
